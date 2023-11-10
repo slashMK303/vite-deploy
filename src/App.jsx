@@ -8,7 +8,7 @@ function App() {
         <div className="navbar animate__animated animate__fadeInDown">
           <div className="navbar-icon">
             <div className="home">
-              <a href="https://slashmk303.github.io/vite-deploy/">
+              <a href="#home">
                 <img className="home-img" src="img/Home.svg" />
               </a>
             </div>
@@ -29,7 +29,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="container">
+        <div id="home" className="container">
           <div className="konten-home">
             <div className="garis animate__animated animate__fadeInLeftBig">
               <div className="text-wrapper-2">Hi, my name is</div>
