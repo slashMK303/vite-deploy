@@ -8,7 +8,7 @@ function App() {
         <div className="navbar animate__animated animate__fadeInDown">
           <div className="navbar-icon">
             <div className="home">
-              <a href="/">
+              <a href="https://slashmk303.github.io/vite-deploy/">
                 <img className="home-img" src="img/Home.svg" />
               </a>
             </div>
